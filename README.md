@@ -1,16 +1,13 @@
-```markdown
 # 🧠 DSA Practice Questions Repository
 
-Welcome to the **DSA Practice Repository** — your one-stop destination for mastering **Data Structures and Algorithms** through **well-structured, topic-wise problem sets**.  
-This repository is designed to help you **learn, practice, and revise** DSA concepts effectively.
+Welcome to the **DSA Practice Repository** — a comprehensive resource for mastering **Data Structures and Algorithms** through **well-structured, topic-wise problem sets**.
+This repository is crafted to help you **learn, practice, and reinforce** DSA concepts efficiently.
 
 ---
 
 ## 📁 Repository Structure
 
-The repository is neatly organized into **topics** and **subtopics** for better clarity and navigation.
-
-```
+The repository is organized into **topics** and **subtopics** for clarity and easy navigation:
 
 📦 DSA-Practice
 ┣ 📂 Arrays
@@ -29,85 +26,77 @@ The repository is neatly organized into **topics** and **subtopics** for better 
 ┣ 📂 Sorting
 ┗ 📂 Stack
 
-````
+Each topic includes:
 
-Each topic folder contains:
-- ✅ **Topic Overview**  
-- 📜 **Questions (with problem statements & solutions)**
-- 🧩 **Subfolders for subtopics** (e.g., `Graph/DFS`, `Graph/BFS`, etc.)
-- 💡 **Concept Notes / Hints**
+* ✅ **Topic Overview**
+* 📜 **Questions with problem statements & solutions**
+* 🧩 **Subfolders for subtopics** (e.g., `Graph/DFS`, `Graph/BFS`)
+* 💡 **Concept Notes & Hints**
 
 ---
 
 ## 🚀 Features
 
-- 🗂️ **Topic-wise segregation** for organized learning  
-- 🧠 **Handpicked DSA problems** from beginner to advanced levels  
-- 💬 **Readable explanations** for each problem  
-- ⚙️ **Code solutions in C++ / Java / Python** (as applicable)  
-- 🧾 **Additional notes and theory snippets** to reinforce concepts  
+* 🗂️ **Organized topic-wise structure** for efficient learning
+* 🧠 **Curated DSA problems** ranging from beginner to advanced
+* 💬 **Clear and concise explanations** for each problem
+* ⚙️ **Code solutions** in C++, Java, and Python
+* 🧾 **Supporting notes and theory snippets** to reinforce concepts
 
 ---
 
 ## 🧩 Topics Covered
 
-| Topic | Subtopics Included |
-|:------|:-------------------|
-| **Arrays** | Searching, Sorting, Two Pointer, Sliding Window |
-| **Linked List** | Singly, Doubly, Circular, Reversal |
-| **Stack** | Implementation, Infix/Postfix, Next Greater Element |
-| **Queue** | Implementation, Circular Queue, Deque, Priority Queue |
-| **Tree** | Traversals, BST, Binary Tree Problems |
-| **Graph** | BFS, DFS, Dijkstra, Topological Sort, MST |
-| **Recursion & Backtracking** | Subsets, Permutations, N-Queens, Sudoku |
-| **Dynamic Programming** | Knapsack, LIS, Matrix Path, Subsequence Problems |
+| Topic                        | Subtopics Included                                    |
+| :--------------------------- | :---------------------------------------------------- |
+| **Arrays**                   | Searching, Sorting, Two Pointer, Sliding Window       |
+| **Linked List**              | Singly, Doubly, Circular, Reversal                    |
+| **Stack**                    | Implementation, Infix/Postfix, Next Greater Element   |
+| **Queue**                    | Implementation, Circular Queue, Deque, Priority Queue |
+| **Tree**                     | Traversals, BST, Binary Tree Problems                 |
+| **Graph**                    | BFS, DFS, Dijkstra, Topological Sort, MST             |
+| **Recursion & Backtracking** | Subsets, Permutations, N-Queens, Sudoku               |
+| **Dynamic Programming**      | Knapsack, LIS, Matrix Path, Subsequence Problems      |
 
 ---
 
 ## 🧰 Languages Used
-- 🟦 **C++** (Primary)
-- 🟨 **Java**
+
+* 🟦 **C++ (Primary)**
+* 🟨 **Java**
+
 ---
 
 ## 💡 How to Use
 
 1. **Clone the repository**
-   ```bash
-   git clone https://github.com/kashyap-1811/DSA-Interview-Preparation.git
-   cd DSA-Interview-Preparation
-````
+   `git clone https://github.com/kashyap-1811/DSA-Interview-Preparation.git`
+   `cd DSA-Interview-Preparation`
 
 2. **Navigate to your topic of interest**
+   `cd Stack`
 
-   ```bash
-   cd Stack
-   ```
+3. **Explore and solve**
 
-3. **Explore questions and try solving them**
+   * Read the problem statement
+   * Attempt the problem yourself
+   * Review the provided solution for reference or optimization
 
-   * Read the problem statement.
-   * Attempt the problem yourself.
-   * Check the provided solution for reference or optimization ideas.
-
-4. **Contribute!**
-   Found a better approach or a new question? Feel free to submit a pull request.
+4. **Contribute**
+   Share better approaches or new problems via pull requests
 
 ---
 
 ## 🧑‍💻 Contribution Guidelines
 
-We welcome contributions from fellow learners and developers!
-
-* Follow existing folder and naming conventions.
-* Add clear problem statements and solutions.
-* Comment your code for better understanding.
-* Make a pull request after testing your changes.
+* Follow the existing folder and naming conventions
+* Provide clear problem statements and well-documented solutions
+* Test your code before submitting
+* Submit a pull request for review
 
 ---
 
 ## 📚 Resources for Practice
-
-Here are some helpful DSA learning resources:
 
 * [LeetCode](https://leetcode.com/)
 * [GeeksforGeeks](https://www.geeksforgeeks.org/)
@@ -119,18 +108,18 @@ Here are some helpful DSA learning resources:
 
 ## ⭐ Support
 
-If you find this repository helpful:
+If this repository helps you:
 
-* 🌟 Star this repo to show your support
-* 🔁 Share it with your friends preparing for interviews
-* 🧑‍🤝‍🧑 Contribute and help grow the collection
+* 🌟 Star it to show your support
+* 🔁 Share it with peers preparing for interviews
+* 🧑‍🤝‍🧑 Contribute to help expand the collection
 
 ---
 
 ## 📬 Contact
 
-Created & Maintained by **[Kashyap Rupareliya](https://github.com/kashyap-1811)**
-💌 Feel free to reach out for collaborations, suggestions, or feedback!
+Maintained by **[Kashyap Rupareliya](https://github.com/kashyap-1811)**
+💌 Reach out for collaborations, suggestions, or feedback
 
 ---
 
