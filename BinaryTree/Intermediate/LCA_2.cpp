@@ -1,3 +1,6 @@
+// leet - 236
+// https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
+
 #include <bits/stdc++.h>
 
 using namespace std;
@@ -39,10 +42,9 @@ Node* buildTree(vector<int>nodes)
 
 Node* findLCA(Node *root,int n1,int n2)
 {
-    if(root == nullptr)
-        return nullptr;
-    if(root->data == n1 || root->data == n2)
+    if(root == nullptr || root->data == n1 || root->data == n2)
         return root;
+        
     Node *left = findLCA(root->left,n1,n2);
     Node *right = findLCA(root->right,n1,n2);
 

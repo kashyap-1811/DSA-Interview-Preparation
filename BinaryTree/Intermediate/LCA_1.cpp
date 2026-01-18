@@ -65,7 +65,7 @@ int findLCA(vector<int>p1, vector<int>p2)
 {
     int lca = -1;
 
-    for(int i=0; i<p1.size()&&i<p2.size();i++)
+    for(int i=0; i<p1.size() && i<p2.size();i++)
     {
         if(p1[i] != p2[i])
             return lca;
